@@ -37,7 +37,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="http://152.136.137.111/img/portrait.jpg" />
 
 <p>&emsp;&emsp;Hi 👋, 我是Bummon</p>
 <p>&emsp;&emsp;热爱编程、读书、穿搭、音乐。</p>
@@ -169,10 +169,10 @@ Sunday                   177 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   30 hrs 8 mins       █████████████████████░░░░   85.06 % 
-JavaScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Markdown                 1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-TypeScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Java                     30 hrs 8 mins       █████████████████████░░░░   85.06 % 
+SQL                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Postman                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
@@ -334,10 +334,14 @@ mindmap
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
+<!-- Github使用语言统计 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bummon">
+
 <!-- CSDN 社交统计 -->
 <div>
   <img src="https://stats.justsong.cn/api/csdn?id=HackAzrael"/>
 </div>
+
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bummon&theme=dark&hide_border=true" />
