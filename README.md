@@ -338,7 +338,7 @@ mindmap
 
 <!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Bummon&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bummon&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
+<img align="" height="137px" src="<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=Bummon&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,D783FF&amp;theme=graywhite&amp;locale=cn&hide=html,css,javascript' target='_blank' class='url'>https://github-readme-stats.vercel.app/api/top-langs/?username=Bummon&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&hide=html,css,javascript</a>" /><br><br>
 
 <!-- Awesome repo 比较好的仓库-->
 <!--
@@ -348,6 +348,7 @@ mindmap
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bummon&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 -->
 <!-- Wakatime Graph-->
+
 <table>
   <tr>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
