@@ -1,14 +1,13 @@
 <div align="center">
-  
+
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77618&center=true&width=600&height=100&separator=%3C&lines=System.out.println(%22Hello%2C+World%22);%3CLife+would+be+too+smooth+if+it+had+no+rubs+in+it." alt="Typing SVG" />
     </a>
   </div>
-
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -33,8 +32,8 @@
 
 <table>
 <tr><td>
-
 <!-- About me 关于我 -->
+
 ### 🤺 About Me
 
 <img align="right" width="88" src="http://152.136.137.111/img/portrait.jpg" />
@@ -49,7 +48,7 @@
 
 <tr>
 <td>
-  
+
 ### 🏢 Work Experience
 
 <img align="right" width="88" src="http://img.dav01.com/p/2018/5/11/davinfo_51112_1526043603619_1319890739.png" />
@@ -59,18 +58,19 @@
   - 工作岗位：Java开发工程师
   - 工作内容：会议相关
   <br>
- 
+
   
+
 </td>
 </tr>
 
 <tr><td>
 
-
 <!-- 近期博客 -->
+
 ### 📃 Recent Blog
-  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
 * <a href='https://bummon.github.io/blog/4185626414.html' target='_blank'>简单几步学会使用多数据源</a> - 2023-07-24
@@ -88,26 +88,35 @@
 <!--
 ### 🧠 Second Brain
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/technologist.png" />
 -->
 
 <!-- START_SECTION:brain -->
 <!--
+
 * <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-07-21
+
 * <a href='https://brain.sunguoqi.com/dv/basic/test.html' target='_blank'>前言</a> - 2023-07-21
+
 * <a href='https://brain.sunguoqi.com/en/basic/test.html' target='_blank'>前言</a> - 2023-07-21
+
 * <a href='https://brain.sunguoqi.com/web/css/test.html' target='_blank'>前端学习路线</a> - 2023-07-21
+
 * <a href='https://brain.sunguoqi.com/slides/' target='_blank'>目录</a> - 2023-07-21
--->
-<!-- END_SECTION:brain -->
+  -->
+  <!-- END_SECTION:brain -->
+
+  <!--
 
 </td></tr>
 
 <tr><td>
 
+-->
+
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/34778574/' target='_blank'>最近在读《夏天、烟火和我的尸体》</a> 🌟🌟🌟🌟🌟 力荐- 2023-07-11
@@ -213,12 +222,12 @@ Stylus                   1 repo              █████░░░░░░�
 
  Last Updated on 25/07/2023 07:54:03 UTC
 <!--END_SECTION:waka-->
-  
+
 </td></tr>
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/hr.gif" />
 
 <div align="center" >
 
@@ -243,7 +252,7 @@ mindmap
 ```
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -254,7 +263,7 @@ mindmap
 ![MySQL Badge](https://img.shields.io/badge/MySQL-47A248?logo=mysql&logoColor=fff&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-47A248?logo=postgresql&logoColor=fff&style=flat)
 ![Docker Badge](https://img.shields.io/badge/Docker-steelblue?logo=docker&logoColor=skyblue)
-  
+
 🧠 计划学习
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
@@ -297,33 +306,33 @@ mindmap
 
 <!-- gif -->
 <!--
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/github.webp">
 -->
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
-  
+<img src="https://cdn.jsdelivr.net/gh/Bummon/Github-Stats-Terminal/github_stats.svg"/><br>
+
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-  
+
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=Bummon&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
@@ -333,9 +342,9 @@ mindmap
 
 <!-- Awesome repo 比较好的仓库-->
 <!--
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+<a href="https://github.com/Bummon/Awesome-Love-Code">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bummon&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
+<a href="https://github.com/Bummon/Student-Data-Vision">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bummon&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 -->
 <!-- Wakatime Graph-->
@@ -351,12 +360,12 @@ mindmap
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
@@ -370,14 +379,14 @@ mindmap
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bummon&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/cxyduck.gif" />&emsp;
 <img src="https://metrics.lecoq.io/Bummon?template=classic&config.timezone=Asia%2FShanghai" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -389,7 +398,7 @@ mindmap
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
@@ -436,5 +445,5 @@ mindmap
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 -->
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+<img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/rocket.png"/>
 </div>
