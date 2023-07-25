@@ -333,12 +333,12 @@ mindmap
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
 
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=Bummon&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-
 <!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Bummon&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=Bummon&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,D783FF&amp;theme=graywhite&amp;locale=cn&hide=html,css,javascript' target='_blank' class='url'>https://github-readme-stats.vercel.app/api/top-langs/?username=Bummon&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&hide=html,css,javascript</a>" /><br><br>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bummon&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
+
+<!-- GitHub 奖杯🏆 -->
+<img  src="https://github-profile-trophy.vercel.app/?username=Bummon&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- Awesome repo 比较好的仓库-->
 <!--
@@ -347,13 +347,17 @@ mindmap
 <a href="https://github.com/Bummon/Student-Data-Vision">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bummon&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 -->
-<!-- Wakatime Graph-->
 
 <table>
+<!-- CSDN 社交统计 -->
   <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
   </tr>
+<!-- Wakatime Graph-->
+  <tr>
+    <td><img src="https://wakatime.com/share/@Bummon/b0c0aec8-dbc8-4900-abc7-747eaeac7729.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@Bummon/44365b51-416c-4728-aea6-71508ef395f1.svg" width="500" alt="Wakatime"/></td>
+  </tr>
+  <tr>
   <tr>
     <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/running/assets/github_2023.svg" /></a><br></td>
   </tr>
@@ -371,12 +375,9 @@ mindmap
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
-<!-- Github使用语言统计 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bummon">
-
 <!-- CSDN 社交统计 -->
 <div>
-  <img src="https://stats.justsong.cn/api/csdn?id=HackAzrael"/>
+  <img src="https://stats.justsong.cn/api/csdn?id=HackAzrael&lang=zh-CN&theme=dark"/>
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
