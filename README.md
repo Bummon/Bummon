@@ -326,10 +326,6 @@ mindmap
     <td><img src="https://wakatime.com/share/@Bummon/b0c0aec8-dbc8-4900-abc7-747eaeac7729.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@Bummon/44365b51-416c-4728-aea6-71508ef395f1.svg" width="500" alt="Wakatime"/></td>
   </tr>
-  <tr>
-  <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/running/assets/github_2023.svg" /></a><br></td>
-  </tr>
 </table>
 </div>
 
