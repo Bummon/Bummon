@@ -84,8 +84,6 @@
 
 <tr><td>
 
--->
-
 ### 🤾‍♂️ Funny Soul
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/artist.png" />
