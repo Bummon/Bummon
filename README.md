@@ -73,12 +73,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://bummon.github.io/blog/4185626414.html' target='_blank'>简单几步学会使用多数据源</a> - 2023-07-24
-* <a href='https://bummon.github.io/blog/1811393859.html' target='_blank'>简单高效的轻量级表达式引擎：Aviator</a> - 2023-07-23
-* <a href='https://bummon.github.io/blog/2082552432.html' target='_blank'>JVM 学习笔记二：JVM 内存</a> - 2023-07-22
-* <a href='https://bummon.github.io/blog/855067016.html' target='_blank'>JVM 学习笔记一：JVM 概览</a> - 2023-07-20
-* <a href='https://bummon.github.io/blog/1001383397.html' target='_blank'>SpringBoot 自动装配源码剖析</a> - 2023-07-17
-<br>
+* <a href='http://blog.bummon.com/blog/4185626414.html' target='_blank'>简单几步学会使用多数据源</a> - 2023-07-24
+* <a href='http://blog.bummon.com/blog/1811393859.html' target='_blank'>简单高效的轻量级表达式引擎：Aviator</a> - 2023-07-23
+* <a href='http://blog.bummon.com/blog/2082552432.html' target='_blank'>JVM学习笔记二：JVM内存</a> - 2023-07-22
+* <a href='http://blog.bummon.com/blog/855067016.html' target='_blank'>JVM学习笔记一：JVM概览</a> - 2023-07-20
+* <a href='http://blog.bummon.com/blog/1001383397.html' target='_blank'>SpringBoot自动装配源码剖析</a> - 2023-07-17
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -119,11 +118,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/34778574/' target='_blank'>最近在读《夏天、烟火和我的尸体》</a> 🌟🌟🌟🌟🌟 力荐- 2023-07-11
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-18
-* <a href='https://movie.douban.com/subject/3011091/' target='_blank'>看过忠犬八公的故事</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-18
-* <a href='https://music.douban.com/subject/34466420/' target='_blank'>听过鲨鱼</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<br>
+
 <!-- END_SECTION:douban -->
 
 </td></tr>
