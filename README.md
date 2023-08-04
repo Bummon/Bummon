@@ -181,11 +181,16 @@ mindmap
     编程
       Java
       SpringBoot
+      Go
+      HTML
+      CSS
+      JS
     穿搭
       亚文化
       小众
       新中式
     音乐
+      摇滚
       R&B
       流行音乐
     阅读
