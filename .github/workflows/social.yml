@@ -12,5 +12,5 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://blog.bummon.com/atom.xml
-          douban_name: Bummon
+          douban_name: 272909057
           
