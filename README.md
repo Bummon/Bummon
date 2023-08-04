@@ -73,39 +73,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='http://blog.bummon.com/blog/4185626414.html' target='_blank'>简单几步学会使用多数据源</a> - 2023-07-24
-* <a href='http://blog.bummon.com/blog/1811393859.html' target='_blank'>简单高效的轻量级表达式引擎：Aviator</a> - 2023-07-23
-* <a href='http://blog.bummon.com/blog/2082552432.html' target='_blank'>JVM学习笔记二：JVM内存</a> - 2023-07-22
-* <a href='http://blog.bummon.com/blog/855067016.html' target='_blank'>JVM学习笔记一：JVM概览</a> - 2023-07-20
-* <a href='http://blog.bummon.com/blog/1001383397.html' target='_blank'>SpringBoot自动装配源码剖析</a> - 2023-07-17
 <!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-<!--
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/technologist.png" />
--->
-
-<!-- START_SECTION:brain -->
-<!--
-
-* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-07-21
-
-* <a href='https://brain.sunguoqi.com/dv/basic/test.html' target='_blank'>前言</a> - 2023-07-21
-
-* <a href='https://brain.sunguoqi.com/en/basic/test.html' target='_blank'>前言</a> - 2023-07-21
-
-* <a href='https://brain.sunguoqi.com/web/css/test.html' target='_blank'>前端学习路线</a> - 2023-07-21
-
-* <a href='https://brain.sunguoqi.com/slides/' target='_blank'>目录</a> - 2023-07-21
-  -->
-  <!-- END_SECTION:brain -->
-
-  <!--
 
 </td></tr>
 
