@@ -11,11 +11,11 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://www.bummon.com/"><img src="https://img.shields.io/badge/Website-主页-blue" /></a>&emsp;
-    <a href="https://blog.bummon.com/"><img src="https://img.shields.io/badge/Blog-博客-green" /></a>&emsp;
-    <a href="https://www.bummon.com/weixin"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://juejin.cn/user/4068655792665464"><img src="https://img.shields.io/badge/掘金-论坛-3f7ef7" /></a>&emsp;
-    <a href="https://blog.csdn.net/HackAzrael"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.bummon.com/" target="_blank"><img src="https://img.shields.io/badge/Website-主页-blue" /></a>&emsp;
+    <a href="https://blog.bummon.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-green" /></a>&emsp;
+    <a href="https://www.bummon.com/weixin" target="_blank"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://juejin.cn/user/4068655792665464" target="_blank"><img src="https://img.shields.io/badge/掘金-论坛-3f7ef7" /></a>&emsp;
+    <a href="https://blog.csdn.net/HackAzrael" target="_blank"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Bummon&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
