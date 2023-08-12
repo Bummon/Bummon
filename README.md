@@ -74,11 +74,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='http://blog.bummon.com/blog/215376691.html' target='_blank'>教你如何使用AES加密接口参数</a> - 2023-08-08
+* <a href='http://blog.bummon.com/blog/1577368297.html' target='_blank'>教你如何实现接口防刷</a> - 2023-08-04
 * <a href='http://blog.bummon.com/blog/4185626414.html' target='_blank'>简单几步学会使用多数据源</a> - 2023-07-24
 * <a href='http://blog.bummon.com/blog/1811393859.html' target='_blank'>简单高效的轻量级表达式引擎：Aviator</a> - 2023-07-23
 * <a href='http://blog.bummon.com/blog/2082552432.html' target='_blank'>JVM学习笔记二：JVM内存</a> - 2023-07-22
-* <a href='http://blog.bummon.com/blog/855067016.html' target='_blank'>JVM学习笔记一：JVM概览</a> - 2023-07-20
-* <a href='http://blog.bummon.com/blog/1001383397.html' target='_blank'>SpringBoot自动装配源码剖析</a> - 2023-07-17
 <!-- END_SECTION:blog -->
 
 </td></tr>
