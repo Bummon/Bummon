@@ -37,7 +37,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="http://152.136.137.111/img/portrait.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/avatar.png" />
 
 <p>&emsp;&emsp;Hi 👋, 我是Bummon</p>
 <p>&emsp;&emsp;热爱编程、读书、穿搭、音乐。</p>
