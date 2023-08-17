@@ -74,7 +74,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='http://blog.bummon.com/blog/1567242085.html' target='_blank'>633.平方数之和</a> - 2023-08-17
+* <a href='http://blog.bummon.com/blog/2911343079.html' target='_blank'>【力扣】633.平方数之和</a> - 2023-08-17
 * <a href='http://blog.bummon.com/blog/1333859299.html' target='_blank'>【力扣】167.两数之和II -  输入有序数组</a> - 2023-08-14
 * <a href='http://blog.bummon.com/blog/215376691.html' target='_blank'>教你如何使用AES加密接口参数</a> - 2023-08-08
 * <a href='http://blog.bummon.com/blog/1577368297.html' target='_blank'>教你如何实现接口防刷</a> - 2023-08-04
