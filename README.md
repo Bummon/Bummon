@@ -209,15 +209,15 @@ mindmap
 
 ![Java](https://img.shields.io/badge/Java-F7DF1E?logo=java&logoColor=000&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Go Badge](https://img.shields.io/badge/GO-royalblue?logo=docker&logoColor=cyan)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-47A248?logo=mysql&logoColor=fff&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-47A248?logo=postgresql&logoColor=fff&style=flat)
 ![Docker Badge](https://img.shields.io/badge/Docker-steelblue?logo=docker&logoColor=skyblue)
+![Arduino Badge](https://img.shields.io/badge/Arduino-teal?logo=arduino&logoColor=white)
 
 🧠 计划学习
 
+![Go Badge](https://img.shields.io/badge/GO-royalblue?logo=docker&logoColor=cyan)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
