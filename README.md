@@ -229,14 +229,16 @@ mindmap
 🧰 常用的工具
 
 ![IDEA Badge](https://img.shields.io/badge/IDEA-blue?logo=intellijidea)
+![DataGrip Badge](https://img.shields.io/badge/PyCharm-lightseagreen?logo=datagrip)
+![PyCharm Badge](https://img.shields.io/badge/PyCharm-leaf?logo=pycharm)
 ![Navicat Badge](https://img.shields.io/badge/Navicat-yellow)
 ![Postman Badge](https://img.shields.io/badge/Postman-tomato?logo=postman&logoColor=lightsalmon)
-![IOS Badge](https://img.shields.io/badge/IOS-gray?logo=ios&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Mac Badge](https://img.shields.io/badge/Mac-red?logo=macos&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Gitee Badge](https://img.shields.io/badge/Gitee-crimson?logo=gitee&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Mac Badge](https://img.shields.io/badge/MacBook-white?logo=Apple&logoColor=gray&style=flat)
+![iPhone Badge](https://img.shields.io/badge/iPhone-white?logo=apple&logoColor=gray&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
