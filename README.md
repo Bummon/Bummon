@@ -338,11 +338,6 @@ mindmap
 <!-- Joke 笑话 -->
 <!--<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>-->
 
-<!-- CSDN 社交统计 -->
-<div>
-  <img src="https://stats.justsong.cn/api/csdn?id=HackAzrael&lang=zh-CN&theme=dark"/>
-</div>
-
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bummon&theme=dark&hide_border=true" />
@@ -352,6 +347,12 @@ mindmap
 <img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/cxyduck.gif" />
+
+<!-- 社交统计 -->
+<div>
+  <img src="https://stats.justsong.cn/api/csdn?id=HackAzrael&lang=zh-CN&theme=dark"/>
+  <img src="https://stats.justsong.cn/api/leetcode?username=Bummon&lang=zh-CN&cn=true&theme=dark"/>
+</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
