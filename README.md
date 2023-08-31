@@ -317,7 +317,6 @@ mindmap
 -->
 
 <table>
-<!-- CSDN 社交统计 -->
   <tr>
   </tr>
 <!-- Wakatime Graph-->
@@ -337,7 +336,7 @@ mindmap
 <img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+<!--<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>-->
 
 <!-- CSDN 社交统计 -->
 <div>
@@ -351,7 +350,7 @@ mindmap
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/cxyduck.gif" />&emsp;
-<img src="https://metrics.lecoq.io/Bummon?template=classic&config.timezone=Asia%2FShanghai" />
+<img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
