@@ -218,7 +218,6 @@ mindmap
 
 ![Go Badge](https://img.shields.io/badge/GO-royalblue?logo=docker&logoColor=cyan)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScipt-yellow?logo=javascript)
@@ -229,12 +228,11 @@ mindmap
 🧰 常用的工具
 
 ![IDEA Badge](https://img.shields.io/badge/IDEA-blue?logo=intellijidea)
-![DataGrip Badge](https://img.shields.io/badge/PyCharm-lightseagreen?logo=datagrip)
+![DataGrip Badge](https://img.shields.io/badge/DataGrip-lightseagreen?logo=datagrip)
 ![PyCharm Badge](https://img.shields.io/badge/PyCharm-leaf?logo=pycharm)
 ![Navicat Badge](https://img.shields.io/badge/Navicat-yellow)
 ![Postman Badge](https://img.shields.io/badge/Postman-tomato?logo=postman&logoColor=lightsalmon)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Gitee Badge](https://img.shields.io/badge/Gitee-crimson?logo=gitee&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-white?logo=git&logoColor=red&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Mac Badge](https://img.shields.io/badge/MacBook-white?logo=Apple&logoColor=gray&style=flat)
 ![iPhone Badge](https://img.shields.io/badge/iPhone-white?logo=apple&logoColor=gray&style=flat)
