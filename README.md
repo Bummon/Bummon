@@ -271,7 +271,11 @@ mindmap
 <img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/profile-3d-contrib/profile-night-rainbow.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Bummon/Bummon/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Bummon/Bummon/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="profile-3d-contrib" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/profile-3d-contrib/profile-night-green.svg" />
+</picture>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -283,7 +287,12 @@ mindmap
 <img src="https://cdn.jsdelivr.net/gh/Bummon/Github-Stats-Terminal/github_stats.svg"/><br>
 
 <!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+  <img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</picture>
+<br>
 
 <!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Bummon&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
@@ -293,17 +302,8 @@ mindmap
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Bummon/d89becc4-d1a1-42d5-af3c-90ef8b90a25e.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Bummon/739ab478-f412-4f76-bf2b-c70e0cf3494f.svg" />
-  <img alt="github-snake" src="https://wakatime.com/share/@Bummon/d89becc4-d1a1-42d5-af3c-90ef8b90a25e.svg" />
+  <img alt="wakatime-lastyear" src="https://wakatime.com/share/@Bummon/d89becc4-d1a1-42d5-af3c-90ef8b90a25e.svg" />
 </picture>
-
-<!-- WakaTime 编码天数统计 AllTime -->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Bummon/0cb9bac9-5bb0-4421-92f8-662e8c5c9b26.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Bummon/51c5e815-4409-4928-a515-d69079dccf7d.svg" />
-  <img alt="github-snake" src="https://wakatime.com/share/@Bummon/0cb9bac9-5bb0-4421-92f8-662e8c5c9b26.svg" />
-</picture>
--->
 
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=Bummon&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
@@ -339,9 +339,16 @@ mindmap
 <!--<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>-->
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/left.png" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bummon&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/right.png" />
+<!--<img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/left.png" />-->
+
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bummon&theme=one-dark-pro&hide_border=true&locale=zh_Hans" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bummon&theme=transparent&hide_border=true&locale=zh_Hans" />
+  <img alt="streak-stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bummon&theme=one-dark-pro&hide_border=true&locale=zh_Hans" />
+</picture>
+
+<!--<img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/right.png" />-->
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/cxyduck.gif" />&emsp;
@@ -350,8 +357,16 @@ mindmap
 
 <!-- 社交统计 -->
 <div>
-  <img src="https://stats.justsong.cn/api/csdn?id=HackAzrael&lang=zh-CN&theme=dark"/>
-  <img src="https://stats.justsong.cn/api/leetcode?username=Bummon&lang=zh-CN&cn=true&theme=dark"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.justsong.cn/api/csdn?id=HackAzrael&lang=zh-CN&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.justsong.cn/api/csdn?id=HackAzrael&lang=zh-CN" />
+  <img alt="csdn-status" src="https://stats.justsong.cn/api/csdn?id=HackAzrael&lang=zh-CN&theme=dark" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.justsong.cn/api/leetcode?username=Bummon&lang=zh-CN&cn=true&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.justsong.cn/api/leetcode?username=Bummon&lang=zh-CN&cn=true" />
+  <img alt="leetcode-status" src="https://stats.justsong.cn/api/leetcode?username=Bummon&lang=zh-CN&cn=true&theme=dark" />
+</picture>
 </div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
