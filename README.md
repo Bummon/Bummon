@@ -365,6 +365,12 @@ mindmap
   <source media="(prefers-color-scheme: light)" srcset="https://stats.justsong.cn/api/leetcode?username=Bummon&lang=zh-CN&cn=true" />
   <img alt="leetcode-status" src="https://stats.justsong.cn/api/leetcode?username=Bummon&lang=zh-CN&cn=true&theme=dark" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.justsong.cn/api/juejin?id=4068655792665464&lang=zh-CN&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.justsong.cn/api/juejin?id=4068655792665464&lang=zh-CN" />
+  <img alt="csdn-status" src="https://stats.justsong.cn/api/juejin?id=4068655792665464&lang=zh-CN&theme=dark" />
+</picture>
+<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/3F0i7e3jC5j5bh9f/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center"></script>
 </div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
