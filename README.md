@@ -2,12 +2,16 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://blog.bummon.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77618&center=true&width=600&height=100&separator=%3C&lines=System.out.println(%22Hello%2C+World%22);%3CLife+would+be+too+smooth+if+it+had+no+rubs+in+it." alt="Typing SVG" />
     </a>
   </div>
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/coding.gif" /><br>
+ <a href="https://blog.bummon.com/">
+    <img src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/coding.gif" />
+ </a>
+  
+  <br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
