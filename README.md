@@ -78,11 +78,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='http://blog.bummon.com/blog/350402322.html' target='_blank'>【LeetCode】88. 合并两个有序数组</a> - 2023-08-27
-* <a href='http://blog.bummon.com/blog/2892627660.html' target='_blank'>【LeetCode】345.反转字符串中的元音字母</a> - 2023-08-25
-* <a href='http://blog.bummon.com/blog/3853969140.html' target='_blank'>【LeetCode】680.验证回文串 II</a> - 2023-08-22
-* <a href='http://blog.bummon.com/blog/3876181121.html' target='_blank'>JVM学习笔记三：分代模型</a> - 2023-08-19
-* <a href='http://blog.bummon.com/blog/2911343079.html' target='_blank'>【LeetCode】633.平方数之和</a> - 2023-08-17
+
 <!-- END_SECTION:blog -->
 
 </td></tr>
