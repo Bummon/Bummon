@@ -78,11 +78,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='http://blog.bummon.com/blog/3877483132.html' target='_blank'>一文详解二叉搜索树</a> - 2023-09-08
 * <a href='http://blog.bummon.com/blog/1933515994.html' target='_blank'>致未来女朋友的第二封信</a> - 2023-09-05
 * <a href='http://blog.bummon.com/blog/795409797.html' target='_blank'>利用Hutool+自定义注解实现数据脱敏</a> - 2023-09-02
 * <a href='http://blog.bummon.com/blog/350402322.html' target='_blank'>【LeetCode】88. 合并两个有序数组</a> - 2023-08-27
 * <a href='http://blog.bummon.com/blog/2892627660.html' target='_blank'>【LeetCode】345.反转字符串中的元音字母</a> - 2023-08-25
-* <a href='http://blog.bummon.com/blog/3853969140.html' target='_blank'>【LeetCode】680.验证回文串 II</a> - 2023-08-22
 <!-- END_SECTION:blog -->
 
 </td></tr>
