@@ -78,11 +78,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='http://blog.bummon.com/blog/837208884.html' target='_blank'>流媒体实战之RTMP推送MP4</a> - 2023-12-27
 * <a href='http://blog.bummon.com/blog/2020085060.html' target='_blank'>更好用的MybatisPlus：MybatisFlex（下）</a> - 2023-09-26
 * <a href='http://blog.bummon.com/blog/3235146273.html' target='_blank'>更好用的MybatisPlus：MybatisFlex（上）</a> - 2023-09-18
 * <a href='http://blog.bummon.com/blog/3877483132.html' target='_blank'>一文详解二叉搜索树</a> - 2023-09-08
 * <a href='http://blog.bummon.com/blog/1933515994.html' target='_blank'>致未来女朋友的第二封信</a> - 2023-09-05
-* <a href='http://blog.bummon.com/blog/795409797.html' target='_blank'>利用Hutool+自定义注解实现数据脱敏</a> - 2023-09-02
 <!-- END_SECTION:blog -->
 
 </td></tr>
