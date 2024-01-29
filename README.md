@@ -58,7 +58,7 @@
 
 <img align="right" width="88" src="http://img.dav01.com/p/2018/5/11/davinfo_51112_1526043603619_1319890739.png" />
 
-- [中音讯谷科技有限公司](https://www.zyxgkj.com/) &emsp; 📌 2021-10-08 —— Now
+- [中音讯谷科技有限公司](https://www.zyxgkj.com/) &emsp; 📌 2021-10 —— Now
   
   - 工作岗位：Java开发工程师
   - 工作内容：会议相关
