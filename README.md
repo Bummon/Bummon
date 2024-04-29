@@ -78,11 +78,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='http://blog.bummon.com/blog/80578411.html' target='_blank'>【Bug记录】调用Controller中的方法的Service为null</a> - 2024-04-29
 * <a href='http://blog.bummon.com/blog/1770160495.html' target='_blank'>RocketMQ学习笔记</a> - 2024-04-22
 * <a href='http://blog.bummon.com/blog/2161782640.html' target='_blank'>教你使用JDWP远程调试服务</a> - 2024-03-25
 * <a href='http://blog.bummon.com/blog/2433984716.html' target='_blank'>简单便捷的数据库版本管理工具：Flyway</a> - 2024-03-21
 * <a href='http://blog.bummon.com/blog/2008183889.html' target='_blank'>SpringBoot启动流程源码剖析</a> - 2024-02-28
-* <a href='http://blog.bummon.com/blog/2905814319.html' target='_blank'>不会使用设计模式？一个案例教你结合使用模板方法+策略+工厂模式</a> - 2024-01-29
 <!-- END_SECTION:blog -->
 
 </td></tr>
