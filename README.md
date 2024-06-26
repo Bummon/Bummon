@@ -152,17 +152,17 @@ Sunday                   28 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2024 00:35:57 UTC
+ Last Updated on 26/06/2024 00:35:57 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
