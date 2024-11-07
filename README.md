@@ -90,7 +90,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Bummon/Bummon/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/1453238/' target='_blank'>在看海贼王</a> - 2023-09-07
+* <a href='http://movie.douban.com/subject/26302614/' target='_blank'>在看请回答1988</a> 🌟🌟🌟🌟🌟 力荐- 2023-08-14
+* <a href='https://book.douban.com/subject/34898994/' target='_blank'>最近在读Java核心技术·卷 I（原书第11版）</a> - 2023-08-05
+* <a href='https://book.douban.com/subject/34778574/' target='_blank'>读过夏天、烟火和我的尸体</a> - 2023-08-05
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> - 2023-08-05
 <!-- END_SECTION:douban -->
 
 </td></tr>
