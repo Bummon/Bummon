@@ -148,18 +148,17 @@ Sunday                   30 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   12 mins             ████████████████████████░   96.37 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/01/2025 00:44:02 UTC
+ Last Updated on 28/01/2025 00:42:54 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
